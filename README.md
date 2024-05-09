@@ -13,7 +13,7 @@ The user can change the number of images per column, and their associated prompt
 To run the website, ensure you have Python installed on your system.
 Open a terminal or command prompt, and run the following command: 
 ```bash
-streamlit run  "C:\path\to\file\Final Project V7.py"
+streamlit run  "C:\path\to\file\Midjourney Image Search Project V7.py"
 ```
 
 
